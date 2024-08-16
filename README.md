@@ -12,7 +12,7 @@
   <img src="https://imgur.com/ZuFWOhV.png" alt="mirror" width="240" height="40" />
 </div>
 
-<h3 align="left">Projects:</h3>
+<h3 align="left">🍱 Projects:</h3>
 <div align="left">
   <p>Working on <a href="https://github.com/Solart-Studio">Solart Studio</a></p>
   <p>Administrating and Desinging for <a href="https://spacesky.fr">SpaceSky</a></p>
