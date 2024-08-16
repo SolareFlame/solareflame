@@ -12,11 +12,9 @@
   <img src="https://imgur.com/ZuFWOhV.png" alt="mirror" width="240" height="40" />
 </div>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Projects:</h3>
 <div align="left">
-  <a href="https://discord.gg/solareflame" target="_blank">
-    <img src="https://imgur.com/52DfY0B.png" alt="discord" height="40" width="40" />
-  </a>
+  <p>Working on <a href="https://github.com/Solart-Studio">Solart Studio</a></p>
 </div>
 
 <div align="center">
