@@ -1,7 +1,7 @@
 <h1 align="center">Hello guys, today we have a list of, top 5 Solare</h1>
 
 <div align="center">
-  <img src="https://imgur.com/lCLpGW9.png" alt="clipboard" width="240" height="40" />
+  <img src="https://imgur.com/lCLpGW9.png" alt="clipboard" width="360" height="60" />
   <h3 align="left">💬 Second-year developer student at technical college Nancy-Charlemagne.</h3>
   <h3 align="left">📦 Working on Solart Studio.</h3>
   <h3 align="left">🎨 Experienced Pixel Artist.</h3>
@@ -9,7 +9,7 @@
 </div>
 
 <div align="center">
-  <img src="https://imgur.com/ZuFWOhV.png" alt="mirror" width="240" height="40" />
+  <img src="https://imgur.com/ZuFWOhV.png" alt="mirror" width="360" height="60" />
 </div>
 
 <h3 align="left">🍱 Projects:</h3>
@@ -19,7 +19,7 @@
 </div>
 
 <div align="center">
-  <img src="https://imgur.com/nZ4r1cE.png" alt="clipboard" width="240" height="40" />
+  <img src="https://imgur.com/nZ4r1cE.png" alt="clipboard" width="360" height="60" />
 </div>
 
 <h3 align="left">🔖 Languages:</h3>
@@ -56,3 +56,21 @@
     <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" alt="Figma" height="20" />
   </li>
 </ul>
+
+<footer align="center">
+  <hr />
+  <p>Made with ❤️ by Solart Studio</p>
+  <p>Connect with us:</p>
+  <a href="https://twitter.com/SolartStudio">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" alt="Twitter" height="20" />
+  </a>
+  <a href="https://github.com/Solart-Studio">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=flat&logo=github&logoColor=white" alt="GitHub" height="20" />
+  </a>
+  <a href="https://www.linkedin.com/company/solart-studio/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" height="20" />
+  </a>
+  <p>&copy; 2024 Solart Studio. All rights reserved.</p>
+</footer>
+
+
