@@ -1,5 +1,4 @@
 <h1 align="center">Hello guys, today we have a list of, top 5 Solare</h1>
-<hr/>
 
 <div align="center">
   <img src="https://imgur.com/lCLpGW9.png" alt="clipboard" width="360" height="60" />
