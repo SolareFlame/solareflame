@@ -1,4 +1,5 @@
 <h1 align="center">Hello guys, today we have a list of, top 5 Solare</h1>
+<hr/>
 
 <div align="center">
   <img src="https://imgur.com/lCLpGW9.png" alt="clipboard" width="360" height="60" />
@@ -57,20 +58,10 @@
   </li>
 </ul>
 
+
+ <hr/>
 <footer align="center">
-  <hr />
-  <p>Made with ❤️ by Solart Studio</p>
-  <p>Connect with us:</p>
-  <a href="https://twitter.com/SolartStudio">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" alt="Twitter" height="20" />
-  </a>
-  <a href="https://github.com/Solart-Studio">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=flat&logo=github&logoColor=white" alt="GitHub" height="20" />
-  </a>
-  <a href="https://www.linkedin.com/company/solart-studio/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" height="20" />
-  </a>
-  <p>&copy; 2024 Solart Studio. All rights reserved.</p>
+  <p>Icons inspired by Terraria and Stardew Valley</p>
 </footer>
 
 
