@@ -6,11 +6,12 @@
 <h3 align="left">🎨 Experienced Pixel Artist.</h3>
 <h3 align="left">⚡ Beginner Game Designer.</h3>
 
-<div align="center"> <img src="https://imgur.com/nZ4r1cE.png" alt="clipboard" width="240" height="40" /> </div> 
+<div align="center"> <img src="https://imgur.com/ZuFWOhV.png" alt="clipboard" width="240" height="40" /> </div> 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://discord.gg/solareflame" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="solareflame" height="30" width="40" /></a>
 </p>
 
+<div align="center"> <img src="https://imgur.com/nZ4r1cE.png" alt="clipboard" width="240" height="40" /> </div> 
 <h3 align="left">Languages and Tools:</h3>
