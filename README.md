@@ -1,8 +1,8 @@
 <h1 align="center">Hello guys, today we have a list of, top 5 Solare</h1>
 <h3 align="left">💬 Second-year developer student at technical college Nancy-Charlemagne.</h3>
 <h3 align="left">📦 Working on Solart Studio.</h3>
-<h3 align="left">🎨 Experienced Pixel Artist. ⚡ Beginner Game Designer.</h3>
-
+<h3 align="left">🎨 Experienced Pixel Artist.</h3>
+<h3 align="left">⚡ Beginner Game Designer.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
