@@ -1,6 +1,6 @@
 <h1 align="center">Hello guys, today we have a list of, top 5 Solare</h1>
 
-<img align="center" src="https://imgur.com/lCLpGW9.png" alt="clipboard" width="16" height="96" />
+<img align="center" src="https://imgur.com/lCLpGW9.png" alt="clipboard" width="96" height="16" />
 <h3 align="left">💬 Second-year developer student at technical college Nancy-Charlemagne.</h3>
 <h3 align="left">📦 Working on Solart Studio.</h3>
 <h3 align="left">🎨 Experienced Pixel Artist.</h3>
