@@ -22,7 +22,7 @@
   <img src="https://imgur.com/nZ4r1cE.png" alt="clipboard" width="240" height="40" />
 </div>
 
-<h3 align="left">Languages:</h3>
+<h3 align="left">🔖 Languages:</h3>
 <ul>
   <li>
     <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white" alt="Java" height="20" />
@@ -47,7 +47,7 @@
   </li>
 </ul>
 
-<h3 align="left">Tools:</h3>
+<h3 align="left">🛠️ Tools:</h3>
 <ul>
   <li>
     <img src="https://img.shields.io/badge/Aseprite-7D3F1C?style=flat&logo=aseprite&logoColor=white" alt="Aseprite" height="20" />
