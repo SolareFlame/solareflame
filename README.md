@@ -7,13 +7,13 @@
 <h3 align="left">⚡ Beginner Game Designer.</h3>
 </div>
 
-<div align="center">
-  <img src="https://imgur.com/ZuFWOhV.png" alt="mirror" width="240" height="40" />
-  <span style="margin: 0 10px; vertical-align: middle;">Connect with me:</span>
-  <a href="https://discord.gg/solareflame" target="_blank">
-    <img src="https://imgur.com/52DfY0B.png" alt="discord" height="40" width="40" />
-  </a>
-</div>
+<div align="center"> <img src="https://imgur.com/ZuFWOhV.png" alt="mirror" width="240" height="40" /> </div>
+
+<span style="margin: 0 10px; vertical-align: middle;">Connect with me:</span>
+<a href="https://discord.gg/solareflame" target="_blank">
+<img src="https://imgur.com/52DfY0B.png" alt="discord" height="40" width="40" />
+</a>
+
 
 <div align="center"> <img src="https://imgur.com/nZ4r1cE.png" alt="clipboard" width="240" height="40" /> </div> 
 <h3 align="left">Languages and Tools:</h3>
