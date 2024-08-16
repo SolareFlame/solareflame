@@ -1,10 +1,11 @@
 <h1 align="center">Hello guys, today we have a list of, top 5 Solare</h1>
 
-<div align="center"> <img src="https://imgur.com/lCLpGW9.png" alt="clipboard" width="240" height="40" /> </div>
+<div align="center"> <img src="https://imgur.com/lCLpGW9.png" alt="clipboard" width="240" height="40" /> 
 <h3 align="left">💬 Second-year developer student at technical college Nancy-Charlemagne.</h3>
 <h3 align="left">📦 Working on Solart Studio.</h3>
 <h3 align="left">🎨 Experienced Pixel Artist.</h3>
 <h3 align="left">⚡ Beginner Game Designer.</h3>
+</div>
 
 <div align="center"> <img src="https://imgur.com/ZuFWOhV.png" alt="clipboard" width="240" height="40" /> </div> 
 
