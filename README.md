@@ -18,6 +18,7 @@
   <p>Administrating and Designing for <a href="https://spacesky.fr">SpaceSky</a></p>
   <p>Secretly working on <a href="https://github.com/SolareFlame/CroustoV2">Crousto BOT</a></p>
   <p>Secretly working on <a href="https://github.com/SolareFlame/CASC">CASC</a></p>
+  <p>Secretly working on <a href="https://github.com/SolareFlame/camion">Camion</a></p>
 </div>
 
 <div align="center">
