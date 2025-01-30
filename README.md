@@ -26,21 +26,41 @@
 <br>
 <br>
 
-<div align="left">
-  <a href="https://github.com/Solart-Studio">
-    <img src="https://raw.githubusercontent.com/SolareFlame/SolareFlame/main/assets/banners/solart.png" alt="Solart Studio" width="360" />
-  </a>
-</div>
-<div align="left">
-  <a href="https://github.com/SolareFlame/CroustoV2">
-    <img src="https://raw.githubusercontent.com/SolareFlame/SolareFlame/main/assets/banners/crousto.png" alt="Crousto BOT" width="360" />
-  </a>
-</div>
-<div align="left">
-  <a href="https://github.com/SolareFlame/camion">
-    <img src="https://raw.githubusercontent.com/SolareFlame/SolareFlame/main/assets/banners/camion.png" alt="Camion BOT" width="360" />
-  </a>
-</div>
+<table>
+  <tr>
+    <td align="left">
+      <a href="https://github.com/Solart-Studio">
+        <img src="https://raw.githubusercontent.com/SolareFlame/SolareFlame/main/assets/banners/solart.png" alt="Solart Studio" width="360" />
+      </a>
+    </td>
+    <td align="left">
+      <p>Studio focused on the production of pixel art (items, gui, icons, etc.)</p>
+    </td>
+  </tr>
+  <tr>
+    <td align="left">
+      <a href="https://github.com/SolareFlame/CroustoV2">
+        <img src="https://raw.githubusercontent.com/SolareFlame/SolareFlame/main/assets/banners/crousto.png" alt="Crousto BOT" width="360" />
+      </a>
+    </td>
+    <td align="left">
+      <p>Bot discord whose objective is to provide Crous restaurant menus using the Univ Lorraine API.</p>
+    </td>
+  </tr>
+  <tr>
+    <td align="left">
+      <a href="https://github.com/SolareFlame/camion">
+        <img src="https://raw.githubusercontent.com/SolareFlame/SolareFlame/main/assets/banners/camion.png" alt="Camion BOT" width="360" />
+      </a>
+    </td>
+    <td align="left">
+      <p>Bot discord whose objective is to distribute an audio stream in a voice channel. The music is based on videos/music hosted on Youtube. Using yt-dlp package.</p>
+    </td>
+  </tr>
+</table>
+
+
+
 <hr>
 
 <!-- Languages -->
