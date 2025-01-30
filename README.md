@@ -2,7 +2,7 @@
 
 <!-- About Me -->
 <div align="left">
-  <a href="https://github.com/Solart-Studio">
+  <a>
     <img src="https://raw.githubusercontent.com/SolareFlame/SolareFlame/main/assets/icons/clipboard.png" alt="clipboard.png" width="360" />
   </a>
 </div>
@@ -19,7 +19,7 @@
 
 <!-- Projects -->
 <div align="left">
-  <a href="https://github.com/Solart-Studio">
+  <a>
     <img src="https://raw.githubusercontent.com/SolareFlame/SolareFlame/main/assets/icons/projects.png" alt="projects.png" width="360" />
   </a>
 </div>
@@ -65,7 +65,7 @@
 
 <!-- Languages -->
 <div align="left">
-  <a href="https://github.com/Solart-Studio">
+  <a>
     <img src="https://raw.githubusercontent.com/SolareFlame/SolareFlame/main/assets/icons/lang.png" alt="lang.png" width="360" />
   </a>
 </div>
@@ -79,7 +79,7 @@
 
 <!-- Tools -->
 <div align="left">
-  <a href="https://github.com/Solart-Studio">
+  <a>
     <img src="https://raw.githubusercontent.com/SolareFlame/SolareFlame/main/assets/icons/tools.png" alt="tools.png" width="360" />
   </a>
 </div>
