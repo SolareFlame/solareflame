@@ -91,6 +91,8 @@
 </div>
 <hr/>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SolareFlame&layout=compact&theme=radical)
+
 
 <footer align="left">
   <p>Icons inspired by Terraria and Stardew Valley</p>
