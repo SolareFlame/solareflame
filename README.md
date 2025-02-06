@@ -50,15 +50,24 @@
   <tr>
     <td align="left">
       <a href="https://github.com/SolareFlame/camion">
-        <img src="https://raw.githubusercontent.com/SolareFlame/SolareFlame/main/assets/banners/camion.png" alt="Camion BOT" width="360" />
+        <img src="https://raw.githubusercontent.com/SolareFlame/SolareFlame/main/assets/banners/camion_card.gif" alt="Camion BOT" width="360" />
       </a>
     </td>
     <td align="left">
       <p>Bot discord whose objective is to distribute an audio stream in a voice channel. The music is based on videos/music hosted on Youtube. Using yt-dlp package.</p>
     </td>
   </tr>
+  <tr>
+    <td align="left">
+      <a href="https://github.com/SolareFlame/klaxon">
+        <img src="https://raw.githubusercontent.com/SolareFlame/SolareFlame/main/assets/banners/klaxon_card.gif" alt="Camion BOT" width="360" />
+      </a>
+    </td>
+    <td align="left">
+      <p>Radio Privée controllable via un pannel. (indev)</p>
+    </td>
+  </tr>
 </table>
-
 
 
 <hr>
