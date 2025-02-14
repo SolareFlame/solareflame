@@ -64,7 +64,7 @@
       </a>
     </td>
     <td align="left">
-      <p>Radio Privée controllable via un pannel. (indev)</p>
+      <p>Klaxon is an ambitious project in early development, designed to provide full control over a private online radio station.</p>
     </td>
   </tr>
 </table>
