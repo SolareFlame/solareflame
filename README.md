@@ -32,7 +32,7 @@
 </div>
 
 <blockquote>
-  <a href="https://github.com/SolareFlame/MyFiguDB">
+  <a href="https://github.com/myfigudb">
     <img src="https://raw.githubusercontent.com/SolareFlame/SolareFlame/main/assets/banners/myfigudb_banner.png" alt="MyFiguDB" />
   </a>
   <h3>MyFiguDB</h3>
